@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/OpenGL/build/_deps/lunasvg-subbuild/CMakeFiles/lunasvg-populate"
+		},
+		{
+			"file" : "D:/OpenGL/build/_deps/lunasvg-subbuild/CMakeFiles/lunasvg-populate.rule"
+		},
+		{
+			"file" : "D:/OpenGL/build/_deps/lunasvg-subbuild/CMakeFiles/lunasvg-populate-complete.rule"
+		},
+		{
+			"file" : "D:/OpenGL/build/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-build.rule"
+		},
+		{
+			"file" : "D:/OpenGL/build/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-configure.rule"
+		},
+		{
+			"file" : "D:/OpenGL/build/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-download.rule"
+		},
+		{
+			"file" : "D:/OpenGL/build/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-install.rule"
+		},
+		{
+			"file" : "D:/OpenGL/build/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/OpenGL/build/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-patch.rule"
+		},
+		{
+			"file" : "D:/OpenGL/build/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-test.rule"
+		},
+		{
+			"file" : "D:/OpenGL/build/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"lunasvg-populate"
+		],
+		"name" : "lunasvg-populate"
+	}
+}

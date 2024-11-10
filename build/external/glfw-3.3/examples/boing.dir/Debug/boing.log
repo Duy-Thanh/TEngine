@@ -1,0 +1,4 @@
+﻿  Building Custom Rule D:/OpenGL/external/glfw-3.3/examples/CMakeLists.txt
+  boing.c
+  glad_gl.c
+  boing.vcxproj -> D:\OpenGL\build\external\glfw-3.3\examples\Debug\boing.exe

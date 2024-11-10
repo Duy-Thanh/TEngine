@@ -1,0 +1,3 @@
+C:\mingw64\bin\cmake.exe -E rm -f CMakeFiles\offscreen.dir/objects.a
+C:\mingw64\bin\llvm-ar.exe qc CMakeFiles\offscreen.dir/objects.a @CMakeFiles\offscreen.dir\objects1.rsp
+C:\mingw64\bin\clang.exe  -D_FORTIFY_SOURCE=2 -D_WIN32_WINNT=0x0601 -DWIN32_WINNT=0x0601 -DWINVER=0x0601 -ftree-vectorize -fopt-info-vec -funroll-loops -fomit-frame-pointer -fstack-protector-strong -fpic -fpie -pie -Wdeprecated-declarations -pthread -mavx2 -Ofast --static -fcf-protection=full -mshstk -march=native -g  -Wl,--nxcompat -flto -Wl,--gc-sections -Wl,-Map=memory_map.map -Wl,--whole-archive CMakeFiles\offscreen.dir/objects.a -Wl,--no-whole-archive -o offscreen.exe -Wl,--out-implib,liboffscreen.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\offscreen.dir\linkLibs.rsp

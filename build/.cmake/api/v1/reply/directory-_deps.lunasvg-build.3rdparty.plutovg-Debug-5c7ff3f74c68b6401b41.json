@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "_deps/lunasvg-build/3rdparty/plutovg",
+		"source" : "build/_deps/lunasvg-src/3rdparty/plutovg"
+	}
+}

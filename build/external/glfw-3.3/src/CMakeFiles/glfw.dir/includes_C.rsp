@@ -1,0 +1,1 @@
+-ID:/OpenGL/external/stb/include -ID:/OpenGL/external/godot/crash_handler/include -I"D:/OpenGL/external/glfw-3.3/include" -I"D:/OpenGL/external/glfw-3.3/src" -I"D:/OpenGL/build/external/glfw-3.3/src" -I"D:/OpenGL/external/glfw-3.3/deps/mingw"

@@ -1,0 +1,978 @@
+﻿  Building Custom Rule D:/OpenGL/external/assimp-3.0.1270/code/CMakeLists.txt
+  Assimp.cpp
+  AssimpPCH.cpp
+  BaseImporter.cpp
+  BaseProcess.cpp
+  PostStepRegistry.cpp
+  ImporterRegistry.cpp
+  DefaultIOStream.cpp
+  DefaultIOSystem.cpp
+  Importer.cpp
+  SGSpatialSort.cpp
+  VertexTriangleAdjacency.cpp
+  SpatialSort.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/ImporterRegistry.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/BaseImporter.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/BaseProcess.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\SmoothingGroups.inl(109,4): error C2760: syntax error: 'register' was unexpected here; expected 'statement_seq'
+  (compiling source file '../../../../external/assimp-3.0.1270/code/ImporterRegistry.cpp')
+      D:\OpenGL\external\assimp-3.0.1270\code\SmoothingGroups.h(97,6):
+      This diagnostic occurred in the compiler generated function 'void ComputeNormalsWithSmoothingsGroups(MeshWithSmoothingGroups<T> &)'
+  
+D:\OpenGL\external\assimp-3.0.1270\code\SmoothingGroups.inl(109,4): message : error recovery skipped: 'register'
+  (compiling source file '../../../../external/assimp-3.0.1270/code/ImporterRegistry.cpp')
+      D:\OpenGL\external\assimp-3.0.1270\code\SmoothingGroups.h(97,6):
+      This diagnostic occurred in the compiler generated function 'void ComputeNormalsWithSmoothingsGroups(MeshWithSmoothingGroups<T> &)'
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/DefaultIOStream.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/Assimp.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/DefaultIOSystem.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/SGSpatialSort.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/PostStepRegistry.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\LWOFileData.h(349,3): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/ImporterRegistry.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/SpatialSort.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/AssimpPCH.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/Importer.cpp')
+  
+  SceneCombiner.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/VertexTriangleAdjacency.cpp')
+  
+  ScenePreprocessor.cpp
+  SkeletonMeshBuilder.cpp
+  SplitByBoneCountProcess.cpp
+  StandardShapes.cpp
+  TargetAnimation.cpp
+  RemoveComments.cpp
+  Subdivision.cpp
+  DefaultLogger.cpp
+  Exporter.cpp
+  AssimpCExport.cpp
+  CalcTangentsProcess.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/ScenePreprocessor.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/StandardShapes.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/SplitByBoneCountProcess.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/SkeletonMeshBuilder.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/TargetAnimation.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/SceneCombiner.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/Subdivision.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/RemoveComments.cpp')
+  
+  ComputeUVMappingProcess.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/DefaultLogger.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/Exporter.cpp')
+  
+  ConvertToLHProcess.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\Exporter.cpp(241,10): error C2039: 'auto_ptr': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\functional(31,1):
+      see declaration of 'std'
+  
+D:\OpenGL\external\assimp-3.0.1270\code\Exporter.cpp(241,19): error C2275: 'aiScene': expected an expression instead of a type
+D:\OpenGL\external\assimp-3.0.1270\code\Exporter.cpp(241,28): error C3861: 'scenecopy': identifier not found
+D:\OpenGL\external\assimp-3.0.1270\code\Exporter.cpp(262,9): error C2065: 'scenecopy': undeclared identifier
+D:\OpenGL\external\assimp-3.0.1270\code\Exporter.cpp(278,20): error C2065: 'scenecopy': undeclared identifier
+D:\OpenGL\external\assimp-3.0.1270\code\Exporter.cpp(287,21): error C2065: 'scenecopy': undeclared identifier
+D:\OpenGL\external\assimp-3.0.1270\code\Exporter.cpp(294,21): error C2065: 'scenecopy': undeclared identifier
+D:\OpenGL\external\assimp-3.0.1270\code\Exporter.cpp(301,21): error C2065: 'scenecopy': undeclared identifier
+D:\OpenGL\external\assimp-3.0.1270\code\Exporter.cpp(314,19): error C2065: 'scenecopy': undeclared identifier
+D:\OpenGL\external\assimp-3.0.1270\code\Exporter.cpp(317,50): error C2065: 'scenecopy': undeclared identifier
+D:\OpenGL\external\assimp-3.0.1270\code\Exporter.cpp(317,30): error C2737: 'privOut': const object must be initialized
+D:\OpenGL\external\assimp-3.0.1270\code\Exporter.cpp(323,54): error C2065: 'scenecopy': undeclared identifier
+D:\OpenGL\external\assimp-3.0.1270\code\Exporter.cpp(323,8): error C2198: 'const Assimp::Exporter::fpExportFunc': too few arguments for call
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/AssimpCExport.cpp')
+  
+  FindDegenerates.cpp
+  FindInstancesProcess.cpp
+  FindInvalidDataProcess.cpp
+  FixNormalsStep.cpp
+  GenFaceNormalsProcess.cpp
+  GenVertexNormalsProcess.cpp
+  PretransformVertices.cpp
+  ImproveCacheLocality.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/CalcTangentsProcess.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\CalcTangentsProcess.cpp(161,5): warning C5033: 'register' is no longer a supported storage class
+  JoinVerticesProcess.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/ConvertToLHProcess.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/FindInvalidDataProcess.cpp')
+  
+  LimitBoneWeightsProcess.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/ComputeUVMappingProcess.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\FindInvalidDataProcess.cpp(92,4): warning C5033: 'register' is no longer a supported storage class
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/FindInstancesProcess.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/GenFaceNormalsProcess.cpp')
+  
+  RemoveRedundantMaterials.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/FindDegenerates.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\FindDegenerates.cpp(110,8): warning C5033: 'register' is no longer a supported storage class
+D:\OpenGL\external\assimp-3.0.1270\code\FindDegenerates.cpp(119,9): warning C5033: 'register' is no longer a supported storage class
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/GenVertexNormalsProcess.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\GenVertexNormalsProcess.cpp(198,5): warning C5033: 'register' is no longer a supported storage class
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/FixNormalsStep.cpp')
+  
+  RemoveVCProcess.cpp
+  SortByPTypeProcess.cpp
+  SplitLargeMeshes.cpp
+  TerragenLoader.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/ImproveCacheLocality.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\ImproveCacheLocality.cpp(306,4): warning C5033: 'register' is no longer a supported storage class
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/PretransformVertices.cpp')
+  
+  TextureTransform.cpp
+  TriangulateProcess.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/JoinVerticesProcess.cpp')
+  
+  ValidateDataStructure.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/LimitBoneWeightsProcess.cpp')
+  
+  OptimizeGraph.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/RemoveRedundantMaterials.cpp')
+  
+  OptimizeMeshes.cpp
+  DeboneProcess.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/SortByPTypeProcess.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/SplitLargeMeshes.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/RemoveVCProcess.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\RemoveVCProcess.cpp(274,2): warning C5033: 'register' is no longer a supported storage class
+D:\OpenGL\external\assimp-3.0.1270\code\SortByPTypeProcess.cpp(292,6): warning C5033: 'register' is no longer a supported storage class
+  ProcessHelper.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/TerragenLoader.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\TerragenLoader.cpp(228,6): warning C5033: 'register' is no longer a supported storage class
+  MakeVerboseFormat.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/TriangulateProcess.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/TextureTransform.cpp')
+  
+  3DSConverter.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/ValidateDataStructure.cpp')
+  
+  3DSLoader.cpp
+  ACLoader.cpp
+  ASELoader.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/OptimizeGraph.cpp')
+  
+  ASEParser.cpp
+  B3DImporter.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/OptimizeMeshes.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/DeboneProcess.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\OptimizeMeshes.cpp(165,5): warning C5033: 'register' is no longer a supported storage class
+  BVHLoader.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/ProcessHelper.cpp')
+  
+  ColladaLoader.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/MakeVerboseFormat.cpp')
+  
+  ColladaParser.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/3DSConverter.cpp')
+  
+  ColladaExporter.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\SmoothingGroups.inl(109,4): error C2760: syntax error: 'register' was unexpected here; expected 'statement_seq'
+  (compiling source file '../../../../external/assimp-3.0.1270/code/3DSConverter.cpp')
+      D:\OpenGL\external\assimp-3.0.1270\code\SmoothingGroups.h(97,6):
+      This diagnostic occurred in the compiler generated function 'void ComputeNormalsWithSmoothingsGroups(MeshWithSmoothingGroups<T> &)'
+  
+D:\OpenGL\external\assimp-3.0.1270\code\SmoothingGroups.inl(109,4): message : error recovery skipped: 'register'
+  (compiling source file '../../../../external/assimp-3.0.1270/code/3DSConverter.cpp')
+      D:\OpenGL\external\assimp-3.0.1270\code\SmoothingGroups.h(97,6):
+      This diagnostic occurred in the compiler generated function 'void ComputeNormalsWithSmoothingsGroups(MeshWithSmoothingGroups<T> &)'
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/3DSLoader.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\3DSConverter.cpp(399,5): warning C5033: 'register' is no longer a supported storage class
+D:\OpenGL\external\assimp-3.0.1270\code\SmoothingGroups.inl(109,4): error C2760: syntax error: 'register' was unexpected here; expected 'statement_seq'
+  (compiling source file '../../../../external/assimp-3.0.1270/code/3DSLoader.cpp')
+      D:\OpenGL\external\assimp-3.0.1270\code\SmoothingGroups.h(97,6):
+      This diagnostic occurred in the compiler generated function 'void ComputeNormalsWithSmoothingsGroups(MeshWithSmoothingGroups<T> &)'
+  
+D:\OpenGL\external\assimp-3.0.1270\code\SmoothingGroups.inl(109,4): message : error recovery skipped: 'register'
+  (compiling source file '../../../../external/assimp-3.0.1270/code/3DSLoader.cpp')
+      D:\OpenGL\external\assimp-3.0.1270\code\SmoothingGroups.h(97,6):
+      This diagnostic occurred in the compiler generated function 'void ComputeNormalsWithSmoothingsGroups(MeshWithSmoothingGroups<T> &)'
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/ACLoader.cpp')
+  
+  DXFLoader.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/ASELoader.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\ACLoader.cpp(492,5): warning C5033: 'register' is no longer a supported storage class
+D:\OpenGL\external\assimp-3.0.1270\code\ACLoader.cpp(620,8): warning C5033: 'register' is no longer a supported storage class
+  CSMLoader.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\SmoothingGroups.inl(109,4): error C2760: syntax error: 'register' was unexpected here; expected 'statement_seq'
+  (compiling source file '../../../../external/assimp-3.0.1270/code/ASELoader.cpp')
+      D:\OpenGL\external\assimp-3.0.1270\code\SmoothingGroups.h(97,6):
+      This diagnostic occurred in the compiler generated function 'void ComputeNormalsWithSmoothingsGroups(MeshWithSmoothingGroups<T> &)'
+  
+D:\OpenGL\external\assimp-3.0.1270\code\SmoothingGroups.inl(109,4): message : error recovery skipped: 'register'
+  (compiling source file '../../../../external/assimp-3.0.1270/code/ASELoader.cpp')
+      D:\OpenGL\external\assimp-3.0.1270\code\SmoothingGroups.h(97,6):
+      This diagnostic occurred in the compiler generated function 'void ComputeNormalsWithSmoothingsGroups(MeshWithSmoothingGroups<T> &)'
+  
+  HMPLoader.cpp
+  IRRLoader.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/ASEParser.cpp')
+  
+  IRRMeshLoader.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\SmoothingGroups.inl(109,4): error C2760: syntax error: 'register' was unexpected here; expected 'statement_seq'
+  (compiling source file '../../../../external/assimp-3.0.1270/code/ASEParser.cpp')
+      D:\OpenGL\external\assimp-3.0.1270\code\SmoothingGroups.h(97,6):
+      This diagnostic occurred in the compiler generated function 'void ComputeNormalsWithSmoothingsGroups(MeshWithSmoothingGroups<T> &)'
+  
+D:\OpenGL\external\assimp-3.0.1270\code\SmoothingGroups.inl(109,4): message : error recovery skipped: 'register'
+  (compiling source file '../../../../external/assimp-3.0.1270/code/ASEParser.cpp')
+      D:\OpenGL\external\assimp-3.0.1270\code\SmoothingGroups.h(97,6):
+      This diagnostic occurred in the compiler generated function 'void ComputeNormalsWithSmoothingsGroups(MeshWithSmoothingGroups<T> &)'
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/B3DImporter.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\B3DImporter.cpp(551,17): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  IRRShared.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/BVHLoader.cpp')
+  
+  LWOAnimation.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/ColladaLoader.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/ColladaParser.cpp')
+  
+  LWOBLoader.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/ColladaExporter.cpp')
+  
+  LWOLoader.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/CSMLoader.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/DXFLoader.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/HMPLoader.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IRRLoader.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IRRMeshLoader.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IRRShared.cpp')
+  
+  LWOMaterial.cpp
+  LWSLoader.cpp
+  M3Importer.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/LWOAnimation.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\LWOFileData.h(349,3): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/LWOAnimation.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\LWOAnimation.cpp(159,11): error C2039: 'bind1st': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\functional(31,1):
+      see declaration of 'std'
+  
+D:\OpenGL\external\assimp-3.0.1270\code\LWOAnimation.cpp(159,11): error C3861: 'bind1st': identifier not found
+D:\OpenGL\external\assimp-3.0.1270\code\LWOAnimation.cpp(158,46): error C2672: 'std::find_if': no matching overloaded function found
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\algorithm(547,19):
+      could be '_FwdIt std::find_if(_ExPo &&,_FwdIt,_FwdIt,_Pr) noexcept'
+          D:\OpenGL\external\assimp-3.0.1270\code\LWOAnimation.cpp(158,46):
+          '_FwdIt std::find_if(_ExPo &&,_FwdIt,_FwdIt,_Pr) noexcept': expects 4 arguments - 3 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\xutility(6467,31):
+      or       '_InIt std::find_if(_InIt,const _InIt,_Pr)'
+          D:\OpenGL\external\assimp-3.0.1270\code\LWOAnimation.cpp(158,46):
+          Failed to specialize function template '_InIt std::find_if(_InIt,const _InIt,_Pr)'
+              D:\OpenGL\external\assimp-3.0.1270\code\LWOAnimation.cpp(158,46):
+              With the following template arguments:
+                  D:\OpenGL\external\assimp-3.0.1270\code\LWOAnimation.cpp(158,46):
+                  '_InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>'
+                  D:\OpenGL\external\assimp-3.0.1270\code\LWOAnimation.cpp(158,46):
+                  '_Pr=unknown-type'
+  
+  MD2Loader.cpp
+  MD3Loader.cpp
+  MD5Loader.cpp
+  MD5Parser.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/LWOLoader.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\LWOFileData.h(349,3): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/LWOLoader.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/LWOBLoader.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\LWOFileData.h(349,3): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/LWOBLoader.cpp')
+  
+  MDCLoader.cpp
+  MDLLoader.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\LWOLoader.cpp(347,7): warning C5033: 'register' is no longer a supported storage class
+D:\OpenGL\external\assimp-3.0.1270\code\LWOLoader.cpp(490,4): warning C5033: 'register' is no longer a supported storage class
+D:\OpenGL\external\assimp-3.0.1270\code\LWOLoader.cpp(509,5): warning C5033: 'register' is no longer a supported storage class
+D:\OpenGL\external\assimp-3.0.1270\code\LWOLoader.cpp(532,5): warning C5033: 'register' is no longer a supported storage class
+D:\OpenGL\external\assimp-3.0.1270\code\LWOLoader.cpp(729,2): warning C5033: 'register' is no longer a supported storage class
+  MDLMaterialLoader.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/LWOMaterial.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\LWOFileData.h(349,3): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/LWOMaterial.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/LWSLoader.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\LWOFileData.h(349,3): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/LWSLoader.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/M3Importer.cpp')
+  
+  MaterialSystem.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/MD2Loader.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\MD2Loader.cpp(380,4): warning C5033: 'register' is no longer a supported storage class
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/MD3Loader.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/MD5Loader.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/MD5Parser.cpp')
+  
+  NFFLoader.cpp
+  OFFLoader.cpp
+  ObjFileImporter.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/MDCLoader.cpp')
+  
+  ObjFileMtlImporter.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/MDLLoader.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/MDLMaterialLoader.cpp')
+  
+  ObjFileParser.cpp
+  ObjExporter.cpp
+  OgreImporter.cpp
+  OgreMaterial.cpp
+  OgreMesh.cpp
+  OgreSkeleton.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/MaterialSystem.cpp')
+  
+  PlyLoader.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/NFFLoader.cpp')
+  
+  PlyParser.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\NFFLoader.cpp(403,8): warning C5033: 'register' is no longer a supported storage class
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/ObjFileImporter.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/OFFLoader.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/ObjFileMtlImporter.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/ObjFileParser.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/ObjExporter.cpp')
+  
+  PlyExporter.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/OgreImporter.cpp')
+  
+  Q3DLoader.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/OgreMaterial.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/OgreMesh.cpp')
+  
+  Q3BSPFileParser.cpp
+  Q3BSPFileImporter.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/OgreSkeleton.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/PlyLoader.cpp')
+  
+  Q3BSPZipArchive.cpp
+  RawLoader.cpp
+  SMDLoader.cpp
+  STLLoader.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/PlyParser.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\PlyParser.cpp(794,2): warning C5033: 'register' is no longer a supported storage class
+D:\OpenGL\external\assimp-3.0.1270\code\PlyParser.cpp(841,2): warning C5033: 'register' is no longer a supported storage class
+  STLExporter.cpp
+  UnrealLoader.cpp
+  XFileImporter.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/PlyExporter.cpp')
+  
+  XFileParser.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/Q3BSPFileParser.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/Q3BSPFileImporter.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/Q3DLoader.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\Q3DLoader.cpp(317,5): warning C5033: 'register' is no longer a supported storage class
+  MS3DLoader.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/Q3BSPZipArchive.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/RawLoader.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/SMDLoader.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/STLLoader.cpp')
+  
+  COBLoader.cpp
+  BlenderLoader.cpp
+  BlenderDNA.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/STLExporter.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/UnrealLoader.cpp')
+  
+  BlenderScene.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/XFileImporter.cpp')
+  
+  BlenderModifier.cpp
+  NDOLoader.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/XFileParser.cpp')
+  
+  IFCLoader.cpp
+  IFCReaderGen.cpp
+  IFCUtil.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/MS3DLoader.cpp')
+  
+  IFCGeometry.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/COBLoader.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/BlenderLoader.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/BlenderDNA.cpp')
+  
+  IFCMaterial.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/BlenderScene.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/NDOLoader.cpp')
+  
+  IFCProfile.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/BlenderModifier.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IFCLoader.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\BlenderModifier.cpp(257,8): error C2039: 'bind1st': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\functional(31,1):
+      see declaration of 'std'
+  
+D:\OpenGL\external\assimp-3.0.1270\code\BlenderModifier.cpp(257,8): error C3861: 'bind1st': identifier not found
+D:\OpenGL\external\assimp-3.0.1270\code\BlenderModifier.cpp(256,7): error C2672: 'std::transform': no matching overloaded function found
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\algorithm(3783,9):
+      could be '_FwdIt3 std::transform(_ExPo &&,_FwdIt1,_FwdIt1,_FwdIt2,_FwdIt3,_Fn) noexcept'
+          D:\OpenGL\external\assimp-3.0.1270\code\BlenderModifier.cpp(256,7):
+          '_FwdIt3 std::transform(_ExPo &&,_FwdIt1,_FwdIt1,_FwdIt2,_FwdIt3,_Fn) noexcept': expects 6 arguments - 4 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\algorithm(3763,21):
+      or       '_OutIt std::transform(const _InIt1,const _InIt1,const _InIt2,_OutIt,_Fn)'
+          D:\OpenGL\external\assimp-3.0.1270\code\BlenderModifier.cpp(256,7):
+          '_OutIt std::transform(const _InIt1,const _InIt1,const _InIt2,_OutIt,_Fn)': expects 5 arguments - 4 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\algorithm(3759,9):
+      or       '_FwdIt2 std::transform(_ExPo &&,_FwdIt1,_FwdIt1,_FwdIt2,_Fn) noexcept'
+          D:\OpenGL\external\assimp-3.0.1270\code\BlenderModifier.cpp(256,7):
+          '_FwdIt2 std::transform(_ExPo &&,_FwdIt1,_FwdIt1,_FwdIt2,_Fn) noexcept': expects 5 arguments - 4 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\algorithm(3743,21):
+      or       '_OutIt std::transform(const _InIt,const _InIt,_OutIt,_Fn)'
+          D:\OpenGL\external\assimp-3.0.1270\code\BlenderModifier.cpp(256,7):
+          Failed to specialize function template '_OutIt std::transform(const _InIt,const _InIt,_OutIt,_Fn)'
+              D:\OpenGL\external\assimp-3.0.1270\code\BlenderModifier.cpp(256,7):
+              With the following template arguments:
+                  D:\OpenGL\external\assimp-3.0.1270\code\BlenderModifier.cpp(256,7):
+                  '_InIt=unsigned int *'
+                  D:\OpenGL\external\assimp-3.0.1270\code\BlenderModifier.cpp(256,7):
+                  '_OutIt=unsigned int *'
+                  D:\OpenGL\external\assimp-3.0.1270\code\BlenderModifier.cpp(256,7):
+                  '_Fn=unknown-type'
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(506,9): error C2039: 'auto_ptr': is not a member of 'std'
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IFCLoader.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\bitset(30,1):
+      see declaration of 'std'
+      D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(506,9):
+      the template instantiation context (the oldest one first) is
+          D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(500,9):
+          while compiling class template 'Assimp::STEP::ObjectHelper'
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(509,62): error C2065: 'impl': undeclared identifier
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IFCLoader.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(509,62): error C3861: 'impl': identifier not found
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IFCLoader.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(519,11): error C3861: 'impl': identifier not found
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IFCLoader.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(519,11): error C2065: 'impl': undeclared identifier
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IFCLoader.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IFCReaderGen.cpp')
+  
+  IFCCurve.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(506,9): error C2039: 'auto_ptr': is not a member of 'std'
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IFCReaderGen.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\bitset(30,1):
+      see declaration of 'std'
+      D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(506,9):
+      the template instantiation context (the oldest one first) is
+          D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(500,9):
+          while compiling class template 'Assimp::STEP::ObjectHelper'
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(509,62): error C2065: 'impl': undeclared identifier
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IFCReaderGen.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(509,62): error C3861: 'impl': identifier not found
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IFCReaderGen.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(519,11): error C3861: 'impl': identifier not found
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IFCReaderGen.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(519,11): error C2065: 'impl': undeclared identifier
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IFCReaderGen.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IFCUtil.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(506,9): error C2039: 'auto_ptr': is not a member of 'std'
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IFCUtil.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\bitset(30,1):
+      see declaration of 'std'
+      D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(506,9):
+      the template instantiation context (the oldest one first) is
+          D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(500,9):
+          while compiling class template 'Assimp::STEP::ObjectHelper'
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(509,62): error C2065: 'impl': undeclared identifier
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IFCUtil.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(509,62): error C3861: 'impl': identifier not found
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IFCUtil.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(519,11): error C3861: 'impl': identifier not found
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IFCUtil.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(519,11): error C2065: 'impl': undeclared identifier
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IFCUtil.cpp')
+  
+  STEPFileReader.cpp
+  XGLLoader.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IFCGeometry.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(506,9): error C2039: 'auto_ptr': is not a member of 'std'
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IFCGeometry.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\bitset(30,1):
+      see declaration of 'std'
+      D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(506,9):
+      the template instantiation context (the oldest one first) is
+          D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(500,9):
+          while compiling class template 'Assimp::STEP::ObjectHelper'
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(509,62): error C2065: 'impl': undeclared identifier
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IFCGeometry.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(509,62): error C3861: 'impl': identifier not found
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IFCGeometry.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(519,11): error C3861: 'impl': identifier not found
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IFCGeometry.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(519,11): error C2065: 'impl': undeclared identifier
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IFCGeometry.cpp')
+  
+  irrXML.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\IFCLoader.cpp(372,7): error C2039: 'auto_ptr': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\bitset(30,1):
+      see declaration of 'std'
+  
+D:\OpenGL\external\assimp-3.0.1270\code\IFCLoader.cpp(372,16): error C2275: 'aiNode': expected an expression instead of a type
+D:\OpenGL\external\assimp-3.0.1270\code\IFCLoader.cpp(372,24): error C3861: 'nd': identifier not found
+D:\OpenGL\external\assimp-3.0.1270\code\IFCLoader.cpp(373,2): error C2065: 'nd': undeclared identifier
+D:\OpenGL\external\assimp-3.0.1270\code\IFCLoader.cpp(408,27): error C2065: 'nd': undeclared identifier
+D:\OpenGL\external\assimp-3.0.1270\code\IFCLoader.cpp(408,2): error C2660: 'Assimp::IFC::AssignAddedMeshes': function does not take 2 arguments
+      D:\OpenGL\external\assimp-3.0.1270\code\IFCUtil.h(202,6):
+      see declaration of 'Assimp::IFC::AssignAddedMeshes'
+      D:\OpenGL\external\assimp-3.0.1270\code\IFCLoader.cpp(408,2):
+      while trying to match the argument list '(std::vector<unsigned int,std::allocator<unsigned int>>, Assimp::IFC::ConversionData)'
+  
+D:\OpenGL\external\assimp-3.0.1270\code\IFCLoader.cpp(421,2): error C2065: 'nd': undeclared identifier
+D:\OpenGL\external\assimp-3.0.1270\code\IFCLoader.cpp(422,25): error C2065: 'nd': undeclared identifier
+D:\OpenGL\external\assimp-3.0.1270\code\IFCLoader.cpp(553,7): error C2039: 'auto_ptr': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\bitset(30,1):
+      see declaration of 'std'
+  
+D:\OpenGL\external\assimp-3.0.1270\code\IFCLoader.cpp(553,7): error C7568: argument list missing after assumed function template 'auto_ptr'
+D:\OpenGL\external\assimp-3.0.1270\code\IFCLoader.cpp(587,20): error C2737: 'ndnew': const object must be initialized
+D:\OpenGL\external\assimp-3.0.1270\code\IFCLoader.cpp(599,11): error C2039: 'auto_ptr': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\bitset(30,1):
+      see declaration of 'std'
+  
+D:\OpenGL\external\assimp-3.0.1270\code\IFCLoader.cpp(599,20): error C2275: 'aiNode': expected an expression instead of a type
+D:\OpenGL\external\assimp-3.0.1270\code\IFCLoader.cpp(599,28): error C3861: 'nd_aggr': identifier not found
+D:\OpenGL\external\assimp-3.0.1270\code\IFCLoader.cpp(600,6): error C2065: 'nd_aggr': undeclared identifier
+D:\OpenGL\external\assimp-3.0.1270\code\IFCLoader.cpp(601,6): error C2065: 'nd_aggr': undeclared identifier
+D:\OpenGL\external\assimp-3.0.1270\code\IFCLoader.cpp(603,6): error C2065: 'nd_aggr': undeclared identifier
+D:\OpenGL\external\assimp-3.0.1270\code\IFCLoader.cpp(606,53): error C2065: 'nd_aggr': undeclared identifier
+D:\OpenGL\external\assimp-3.0.1270\code\IFCLoader.cpp(606,20): error C2737: 'ndnew': const object must be initialized
+D:\OpenGL\external\assimp-3.0.1270\code\IFCLoader.cpp(609,7): error C2065: 'nd_aggr': undeclared identifier
+D:\OpenGL\external\assimp-3.0.1270\code\IFCLoader.cpp(610,7): error C2065: 'nd_aggr': undeclared identifier
+D:\OpenGL\external\assimp-3.0.1270\code\IFCLoader.cpp(613,7): error C2065: 'nd_aggr': undeclared identifier
+D:\OpenGL\external\assimp-3.0.1270\code\IFCLoader.cpp(623,29): error C2065: 'nd_aggr': undeclared identifier
+D:\OpenGL\external\assimp-3.0.1270\code\IFCLoader.cpp(627,27): error C2065: 'nd_aggr': undeclared identifier
+D:\OpenGL\external\assimp-3.0.1270\code\IFCLoader.cpp(637,10): error C2039: 'auto_ptr': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\bitset(30,1):
+      see declaration of 'std'
+  
+D:\OpenGL\external\assimp-3.0.1270\code\IFCLoader.cpp(637,19): error C2275: 'aiNode': expected an expression instead of a type
+D:\OpenGL\external\assimp-3.0.1270\code\IFCLoader.cpp(637,27): error C3861: 'nd_aggr': identifier not found
+D:\OpenGL\external\assimp-3.0.1270\code\IFCLoader.cpp(638,5): error C2065: 'nd_aggr': undeclared identifier
+D:\OpenGL\external\assimp-3.0.1270\code\IFCLoader.cpp(639,5): error C2065: 'nd_aggr': undeclared identifier
+D:\OpenGL\external\assimp-3.0.1270\code\IFCLoader.cpp(641,5): error C2065: 'nd_aggr': undeclared identifier
+D:\OpenGL\external\assimp-3.0.1270\code\IFCLoader.cpp(643,5): error C2065: 'nd_aggr': undeclared identifier
+D:\OpenGL\external\assimp-3.0.1270\code\IFCLoader.cpp(647,53): error C2065: 'nd_aggr': undeclared identifier
+D:\OpenGL\external\assimp-3.0.1270\code\IFCLoader.cpp(647,21): error C2737: 'ndnew': const object must be initialized
+D:\OpenGL\external\assimp-3.0.1270\code\IFCLoader.cpp(649,8): error C2065: 'nd_aggr': undeclared identifier
+D:\OpenGL\external\assimp-3.0.1270\code\IFCLoader.cpp(649,27): error C2065: 'nd_aggr': undeclared identifier
+D:\OpenGL\external\assimp-3.0.1270\code\IFCLoader.cpp(654,25): error C2065: 'nd_aggr': undeclared identifier
+D:\OpenGL\external\assimp-3.0.1270\code\IFCLoader.cpp(663,3): error C2665: '`anonymous-namespace'::ProcessProductRepresentation': no overloaded function could convert all the argument types
+      D:\OpenGL\external\assimp-3.0.1270\code\IFCLoader.cpp(90,6):
+      could be 'void `anonymous-namespace'::ProcessProductRepresentation(const Assimp::IFC::IfcProduct &,aiNode *,Assimp::IFC::ConversionData &)'
+          D:\OpenGL\external\assimp-3.0.1270\code\IFCLoader.cpp(663,3):
+          'void `anonymous-namespace'::ProcessProductRepresentation(const Assimp::IFC::IfcProduct &,aiNode *,Assimp::IFC::ConversionData &)': cannot convert argument 2 from 'std::vector<aiNode *,std::allocator<aiNode *>>' to 'aiNode *'
+              D:\OpenGL\external\assimp-3.0.1270\code\IFCLoader.cpp(663,44):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      D:\OpenGL\external\assimp-3.0.1270\code\IFCLoader.cpp(663,3):
+      while trying to match the argument list '(const Assimp::IFC::IfcProduct, std::vector<aiNode *,std::allocator<aiNode *>>, Assimp::IFC::ConversionData)'
+  
+D:\OpenGL\external\assimp-3.0.1270\code\IFCUtil.cpp(72,7): error C2039: 'auto_ptr': is not a member of 'std'
+      D:\OpenGL\external\assimp-3.0.1270\code\ProcessHelper.h(55,11):
+      see declaration of 'std'
+  
+D:\OpenGL\external\assimp-3.0.1270\code\IFCUtil.cpp(72,7): error C7568: argument list missing after assumed function template 'auto_ptr'
+D:\OpenGL\external\assimp-3.0.1270\code\IFCUtil.cpp(76,20): error C3078: array size must be specified in new expressions without an initializer
+D:\OpenGL\external\assimp-3.0.1270\code\IFCUtil.cpp(77,7): error C2672: 'std::copy': no matching overloaded function found
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\xutility(4747,9):
+      could be '_FwdIt2 std::copy(_ExPo &&,_FwdIt1,_FwdIt1,_FwdIt2) noexcept'
+          D:\OpenGL\external\assimp-3.0.1270\code\IFCUtil.cpp(77,7):
+          '_FwdIt2 std::copy(_ExPo &&,_FwdIt1,_FwdIt1,_FwdIt2) noexcept': expects 4 arguments - 2 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\xutility(4736,21):
+      or       '_OutIt std::copy(_InIt,_InIt,_OutIt)'
+          D:\OpenGL\external\assimp-3.0.1270\code\IFCUtil.cpp(77,7):
+          '_OutIt std::copy(_InIt,_InIt,_OutIt)': expects 3 arguments - 2 provided
+  
+D:\OpenGL\external\assimp-3.0.1270\code\IFCUtil.cpp(81,17): error C3078: array size must be specified in new expressions without an initializer
+D:\OpenGL\external\assimp-3.0.1270\code\IFCUtil.cpp(84,13): error C2530: 'f': references must be initialized
+  shapes.cc
+  advancing_front.cc
+  cdt.cc
+  sweep.cc
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IFCMaterial.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(506,9): error C2039: 'auto_ptr': is not a member of 'std'
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IFCMaterial.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\bitset(30,1):
+      see declaration of 'std'
+      D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(506,9):
+      the template instantiation context (the oldest one first) is
+          D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(500,9):
+          while compiling class template 'Assimp::STEP::ObjectHelper'
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(509,62): error C2065: 'impl': undeclared identifier
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IFCMaterial.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(509,62): error C3861: 'impl': identifier not found
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IFCMaterial.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(519,11): error C3861: 'impl': identifier not found
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IFCMaterial.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(519,11): error C2065: 'impl': undeclared identifier
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IFCMaterial.cpp')
+  
+  sweep_context.cc
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IFCProfile.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(506,9): error C2039: 'auto_ptr': is not a member of 'std'
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IFCProfile.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\bitset(30,1):
+      see declaration of 'std'
+      D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(506,9):
+      the template instantiation context (the oldest one first) is
+          D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(500,9):
+          while compiling class template 'Assimp::STEP::ObjectHelper'
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(509,62): error C2065: 'impl': undeclared identifier
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IFCProfile.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(509,62): error C3861: 'impl': identifier not found
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IFCProfile.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(519,11): error C3861: 'impl': identifier not found
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IFCProfile.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(519,11): error C2065: 'impl': undeclared identifier
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IFCProfile.cpp')
+  
+  clipper.cpp
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IFCCurve.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(506,9): error C2039: 'auto_ptr': is not a member of 'std'
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IFCCurve.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\bitset(30,1):
+      see declaration of 'std'
+      D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(506,9):
+      the template instantiation context (the oldest one first) is
+          D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(500,9):
+          while compiling class template 'Assimp::STEP::ObjectHelper'
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(509,62): error C2065: 'impl': undeclared identifier
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IFCCurve.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(509,62): error C3861: 'impl': identifier not found
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IFCCurve.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(519,11): error C3861: 'impl': identifier not found
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IFCCurve.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(519,11): error C2065: 'impl': undeclared identifier
+  (compiling source file '../../../../external/assimp-3.0.1270/code/IFCCurve.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\IFCMaterial.cpp(139,8): error C2039: 'auto_ptr': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\bitset(30,1):
+      see declaration of 'std'
+  
+D:\OpenGL\external\assimp-3.0.1270\code\IFCMaterial.cpp(139,17): error C2275: 'aiMaterial': expected an expression instead of a type
+D:\OpenGL\external\assimp-3.0.1270\code\IFCMaterial.cpp(139,29): error C3861: 'mat': identifier not found
+D:\OpenGL\external\assimp-3.0.1270\code\IFCMaterial.cpp(142,3): error C2065: 'mat': undeclared identifier
+D:\OpenGL\external\assimp-3.0.1270\code\IFCMaterial.cpp(145,3): error C2065: 'mat': undeclared identifier
+D:\OpenGL\external\assimp-3.0.1270\code\IFCMaterial.cpp(147,28): error C2065: 'mat': undeclared identifier
+D:\OpenGL\external\assimp-3.0.1270\code\IFCMaterial.cpp(162,12): error C2039: 'auto_ptr': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\bitset(30,1):
+      see declaration of 'std'
+  
+D:\OpenGL\external\assimp-3.0.1270\code\IFCMaterial.cpp(162,12): error C7568: argument list missing after assumed function template 'auto_ptr'
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/STEPFileReader.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(506,9): error C2039: 'auto_ptr': is not a member of 'std'
+  (compiling source file '../../../../external/assimp-3.0.1270/code/STEPFileReader.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\bitset(30,1):
+      see declaration of 'std'
+      D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(506,9):
+      the template instantiation context (the oldest one first) is
+          D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(500,9):
+          while compiling class template 'Assimp::STEP::ObjectHelper'
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(509,62): error C2065: 'impl': undeclared identifier
+  (compiling source file '../../../../external/assimp-3.0.1270/code/STEPFileReader.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(509,62): error C3861: 'impl': identifier not found
+  (compiling source file '../../../../external/assimp-3.0.1270/code/STEPFileReader.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(519,11): error C3861: 'impl': identifier not found
+  (compiling source file '../../../../external/assimp-3.0.1270/code/STEPFileReader.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFile.h(519,11): error C2065: 'impl': undeclared identifier
+  (compiling source file '../../../../external/assimp-3.0.1270/code/STEPFileReader.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/contrib/irrXML/irrXML.cpp')
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFileReader.cpp(60,59): error C2039: 'not1': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\bitset(30,1):
+      see declaration of 'std'
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFileReader.cpp(60,70): error C2039: 'ptr_fun': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\bitset(30,1):
+      see declaration of 'std'
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFileReader.cpp(60,70): error C3861: 'ptr_fun': identifier not found
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFileReader.cpp(60,59): error C3861: 'not1': identifier not found
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFileReader.cpp(60,26): error C2672: 'std::find_if': no matching overloaded function found
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\algorithm(547,19):
+      could be '_FwdIt std::find_if(_ExPo &&,_FwdIt,_FwdIt,_Pr) noexcept'
+          D:\OpenGL\external\assimp-3.0.1270\code\STEPFileReader.cpp(60,26):
+          '_FwdIt std::find_if(_ExPo &&,_FwdIt,_FwdIt,_Pr) noexcept': expects 4 arguments - 3 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\xutility(6467,31):
+      or       '_InIt std::find_if(_InIt,const _InIt,_Pr)'
+          D:\OpenGL\external\assimp-3.0.1270\code\STEPFileReader.cpp(60,26):
+          Failed to specialize function template '_InIt std::find_if(_InIt,const _InIt,_Pr)'
+              D:\OpenGL\external\assimp-3.0.1270\code\STEPFileReader.cpp(60,26):
+              With the following template arguments:
+                  D:\OpenGL\external\assimp-3.0.1270\code\STEPFileReader.cpp(60,26):
+                  '_InIt=std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>'
+                  D:\OpenGL\external\assimp-3.0.1270\code\STEPFileReader.cpp(60,26):
+                  '_Pr=unknown-type'
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFileReader.cpp(66,50): error C2039: 'not1': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\bitset(30,1):
+      see declaration of 'std'
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFileReader.cpp(66,61): error C2039: 'ptr_fun': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\bitset(30,1):
+      see declaration of 'std'
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFileReader.cpp(66,61): error C3861: 'ptr_fun': identifier not found
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFileReader.cpp(66,50): error C3861: 'not1': identifier not found
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFileReader.cpp(66,15): error C2672: 'std::find_if': no matching overloaded function found
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\algorithm(547,19):
+      could be '_FwdIt std::find_if(_ExPo &&,_FwdIt,_FwdIt,_Pr) noexcept'
+          D:\OpenGL\external\assimp-3.0.1270\code\STEPFileReader.cpp(66,15):
+          '_FwdIt std::find_if(_ExPo &&,_FwdIt,_FwdIt,_Pr) noexcept': expects 4 arguments - 3 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\xutility(6467,31):
+      or       '_InIt std::find_if(_InIt,const _InIt,_Pr)'
+          D:\OpenGL\external\assimp-3.0.1270\code\STEPFileReader.cpp(66,15):
+          Failed to specialize function template '_InIt std::find_if(_InIt,const _InIt,_Pr)'
+              D:\OpenGL\external\assimp-3.0.1270\code\STEPFileReader.cpp(66,15):
+              With the following template arguments:
+                  D:\OpenGL\external\assimp-3.0.1270\code\STEPFileReader.cpp(66,15):
+                  '_InIt=std::reverse_iterator<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>>'
+                  D:\OpenGL\external\assimp-3.0.1270\code\STEPFileReader.cpp(66,15):
+                  '_Pr=unknown-type'
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFileReader.cpp(110,7): error C2039: 'auto_ptr': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\bitset(30,1):
+      see declaration of 'std'
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFileReader.cpp(110,22): error C2275: 'Assimp::STEP::DB': expected an expression instead of a type
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFileReader.cpp(110,26): error C2065: 'db': undeclared identifier
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFileReader.cpp(110,36): error C2039: 'auto_ptr': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\bitset(30,1):
+      see declaration of 'std'
+  
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFileReader.cpp(110,51): error C2275: 'Assimp::STEP::DB': expected an expression instead of a type
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFileReader.cpp(112,27): error C2065: 'db': undeclared identifier
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFileReader.cpp(112,25): error C2530: 'splitter': references must be initialized
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFileReader.cpp(117,21): error C2065: 'db': undeclared identifier
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFileReader.cpp(117,19): error C2530: 'head': references must be initialized
+D:\OpenGL\external\assimp-3.0.1270\code\STEPFileReader.cpp(159,9): error C2065: 'db': undeclared identifier
+D:\OpenGL\external\assimp-3.0.1270\code\StringComparison.h(159,2): warning C5033: 'register' is no longer a supported storage class
+  (compiling source file '../../../../external/assimp-3.0.1270/code/XGLLoader.cpp')
+  

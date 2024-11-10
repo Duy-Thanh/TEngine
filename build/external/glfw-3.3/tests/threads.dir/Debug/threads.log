@@ -1,0 +1,5 @@
+﻿  Building Custom Rule D:/OpenGL/external/glfw-3.3/tests/CMakeLists.txt
+  threads.c
+  tinycthread.c
+  glad_gl.c
+  threads.vcxproj -> D:\OpenGL\build\external\glfw-3.3\tests\Debug\threads.exe

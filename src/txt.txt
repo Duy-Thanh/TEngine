@@ -1,0 +1,99 @@
+Certainly! Let's update the Scene Hierarchy to handle multiple objects within a single 3D model file and implement the features you've requested. We'll need to make changes to the Model class, Scene class, and the renderSceneHierarchy function.
+
+
+The crash when minimizing the window is likely due to the window size becoming zero or negative, which can cause issues with OpenGL and ImGui. To fix this, we need to add some checks to ensure we're not rendering or updating with invalid window dimensions. Here's how we can modify the code to handle this:
+
+1. First, let's update the framebuffer size callback:
+
+```cpp:src/Main.cpp
+void framebuffer_size_callback(GLFWwindow* window, int width, int height)
+{
+    if (width > 0 && height > 0) {
+        WINDOW_WIDTH = width;
+        WINDOW_HEIGHT = height;
+        glViewport(0, 0, width, height);
+    }
+}
+```
+
+2. In the main rendering loop, add a check for window visibility and size:
+
+```cpp:src/Main.cpp
+while (!glfwWindowShouldClose(window)) {
+    // Check if window is minimized
+    int width, height;
+    glfwGetFramebufferSize(window, &width, &height);
+    if (width == 0 || height == 0) {
+        glfwWaitEvents();
+        continue;
+    }
+
+    // ... rest of your rendering code ...
+}
+```
+
+3. Update the projection matrix calculation to avoid division by zero:
+
+```cpp:src/Main.cpp
+glm::mat4 projection = glm::perspective(glm::radians(45.0f),
+    (WINDOW_HEIGHT > 0) ? ((float)WINDOW_WIDTH / (float)WINDOW_HEIGHT) : 1.0f, 
+    0.1f, 1000.0f);
+```
+
+4. In ImGui initialization, add a check for valid window size:
+
+```cpp:src/Main.cpp
+ImGui_ImplGlfw_InitForOpenGL(window, true);
+ImGui_ImplOpenGL3_Init("#version 430");
+
+// Add this check
+int width, height;
+glfwGetFramebufferSize(window, &width, &height);
+if (width > 0 && height > 0) {
+    ImGui::GetIO().DisplaySize = ImVec2((float)width, (float)height);
+}
+```
+
+5. In the rendering loop, update ImGui display size if the window is valid:
+
+```cpp:src/Main.cpp
+while (!glfwWindowShouldClose(window)) {
+    // ... existing code ...
+
+    int width, height;
+    glfwGetFramebufferSize(window, &width, &height);
+    if (width > 0 && height > 0) {
+        ImGui::GetIO().DisplaySize = ImVec2((float)width, (float)height);
+        
+        // ... rest of your rendering code ...
+    } else {
+        glfwWaitEvents();
+        continue;
+    }
+
+    // ... rest of the loop ...
+}
+```
+
+6. Ensure proper cleanup when exiting:
+
+```cpp:src/Main.cpp
+ImGui::Begin("Menu");
+if (ImGui::Button("Open Model")) {
+    showFileExplorer = true;
+    refreshModelFiles();
+}
+ImGui::SameLine();
+if (ImGui::Button("Exit")) {
+    glDeleteVertexArrays(1, &skyboxVAO);
+    glDeleteBuffers(1, &skyboxVBO);
+    ImGui_ImplOpenGL3_Shutdown();
+    ImGui_ImplGlfw_Shutdown();
+    ImGui::DestroyContext();
+    glfwTerminate();
+    exit(0);
+}
+ImGui::End();
+```
+
+These changes should prevent the application from crashing when the window is minimized or resized to zero. The app will pause rendering when the window is not visible and resume when it becomes visible again.

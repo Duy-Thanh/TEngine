@@ -1,0 +1,3 @@
+D:/OpenGL/build/_deps/lunasvg-subbuild/CMakeFiles/lunasvg-populate.dir
+D:/OpenGL/build/_deps/lunasvg-subbuild/CMakeFiles/edit_cache.dir
+D:/OpenGL/build/_deps/lunasvg-subbuild/CMakeFiles/rebuild_cache.dir

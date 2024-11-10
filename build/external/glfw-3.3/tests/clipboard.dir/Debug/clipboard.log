@@ -1,0 +1,5 @@
+﻿  Building Custom Rule D:/OpenGL/external/glfw-3.3/tests/CMakeLists.txt
+  clipboard.c
+  getopt.c
+  glad_gl.c
+  clipboard.vcxproj -> D:\OpenGL\build\external\glfw-3.3\tests\Debug\clipboard.exe

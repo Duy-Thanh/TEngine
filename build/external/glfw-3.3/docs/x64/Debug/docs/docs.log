@@ -1,0 +1,24 @@
+﻿  Generating HTML documentation
+CUSTOMBUILD : warning : Tag 'TCL_SUBST' at line 215 of file 'Doxyfile' has become obsolete.
+           To avoid this warning please remove this line from your configuration file or upgrade it using "doxygen -u"
+CUSTOMBUILD : warning : Tag 'COLS_IN_ALPHA_INDEX' at line 876 of file 'Doxyfile' has become obsolete.
+           To avoid this warning please remove this line from your configuration file or upgrade it using "doxygen -u"
+CUSTOMBUILD : warning : Tag 'HTML_TIMESTAMP' at line 982 of file 'Doxyfile' has become obsolete.
+           To avoid this warning please remove this line from your configuration file or upgrade it using "doxygen -u"
+CUSTOMBUILD : warning : Tag 'FORMULA_TRANSPARENT' at line 1204 of file 'Doxyfile' has become obsolete.
+           To avoid this warning please remove this line from your configuration file or upgrade it using "doxygen -u"
+CUSTOMBUILD : warning : Tag 'LATEX_SOURCE_CODE' at line 1390 of file 'Doxyfile' has become obsolete.
+           To avoid this warning please remove this line from your configuration file or upgrade it using "doxygen -u"
+CUSTOMBUILD : warning : Tag 'PERL_PATH' at line 1653 of file 'Doxyfile' has become obsolete.
+           To avoid this warning please remove this line from your configuration file or upgrade it using "doxygen -u"
+CUSTOMBUILD : warning : Tag 'CLASS_DIAGRAMS' at line 1665 of file 'Doxyfile' has become obsolete.
+           To avoid this warning please remove this line from your configuration file or upgrade it using "doxygen -u"
+CUSTOMBUILD : warning : Tag 'MSCGEN_PATH' at line 1674 of file 'Doxyfile' has become obsolete.
+           To avoid this warning please remove this line from your configuration file or upgrade it using "doxygen -u"
+CUSTOMBUILD : warning : Tag 'DOT_FONTNAME' at line 1704 of file 'Doxyfile' has become obsolete.
+           To avoid this warning please remove this line from your configuration file or upgrade it using "doxygen -u"
+CUSTOMBUILD : warning : Tag 'DOT_FONTSIZE' at line 1709 of file 'Doxyfile' has become obsolete.
+           To avoid this warning please remove this line from your configuration file or upgrade it using "doxygen -u"
+CUSTOMBUILD : warning : Tag 'DOT_TRANSPARENT' at line 1858 of file 'Doxyfile' has become obsolete.
+           To avoid this warning please remove this line from your configuration file or upgrade it using "doxygen -u"
+  Building Custom Rule D:/OpenGL/external/glfw-3.3/docs/CMakeLists.txt

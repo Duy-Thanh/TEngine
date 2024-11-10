@@ -1,0 +1,4 @@
+﻿  Building Custom Rule D:/OpenGL/external/glfw-3.3/examples/CMakeLists.txt
+  offscreen.c
+  glad_gl.c
+  offscreen.vcxproj -> D:\OpenGL\build\external\glfw-3.3\examples\Debug\offscreen.exe

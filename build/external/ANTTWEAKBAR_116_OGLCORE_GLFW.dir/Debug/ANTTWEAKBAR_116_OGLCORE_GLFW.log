@@ -1,0 +1,41 @@
+﻿  Building Custom Rule D:/OpenGL/external/CMakeLists.txt
+  LoadOGL.cpp
+  LoadOGLCore.cpp
+  TwColors.cpp
+  TwBar.cpp
+  TwFonts.cpp
+  TwMgr.cpp
+  TwOpenGL.cpp
+  TwOpenGLCore.cpp
+  TwPrecomp.cpp
+D:\OpenGL\external\AntTweakBar-1.16\src\TwMgr.cpp(2165,71): error C2666: 'CRect::operator ==': overloaded functions have similar conversions
+      D:\OpenGL\external\AntTweakBar-1.16\src\TwMgr.h(377,10):
+      could be 'bool CRect::operator ==(const CRect &)'
+      D:\OpenGL\external\AntTweakBar-1.16\src\TwMgr.h(377,10):
+      or 'bool CRect::operator ==(const CRect &)' [synthesized expression 'y == x']
+      D:\OpenGL\external\AntTweakBar-1.16\src\TwMgr.cpp(2165,71):
+      while trying to match the argument list '(_Ty, CRect)'
+          with
+          [
+              _Ty=CRect
+          ]
+  
+D:\OpenGL\external\AntTweakBar-1.16\src\TwMgr.cpp(5755,31): error C7568: argument list missing after assumed function template 'binary_function'
+D:\OpenGL\external\AntTweakBar-1.16\src\TwMgr.cpp(5755,31): error C3770: 'unknown-type': is not a valid base class
+D:\OpenGL\external\AntTweakBar-1.16\src\TwMgr.cpp(6226,40): warning C4302: 'type cast': truncation from 'LPSTR' to 'WORD'
+D:\OpenGL\external\AntTweakBar-1.16\src\TwMgr.cpp(6227,39): warning C4302: 'type cast': truncation from 'LPSTR' to 'WORD'
+D:\OpenGL\external\AntTweakBar-1.16\src\TwMgr.cpp(6228,37): warning C4302: 'type cast': truncation from 'LPSTR' to 'WORD'
+D:\OpenGL\external\AntTweakBar-1.16\src\TwMgr.cpp(6229,37): warning C4302: 'type cast': truncation from 'LPSTR' to 'WORD'
+D:\OpenGL\external\AntTweakBar-1.16\src\TwMgr.cpp(6230,43): warning C4302: 'type cast': truncation from 'LPSTR' to 'WORD'
+D:\OpenGL\external\AntTweakBar-1.16\src\TwMgr.cpp(6231,42): warning C4302: 'type cast': truncation from 'LPSTR' to 'WORD'
+D:\OpenGL\external\AntTweakBar-1.16\src\TwMgr.cpp(6232,45): warning C4302: 'type cast': truncation from 'LPSTR' to 'WORD'
+D:\OpenGL\external\AntTweakBar-1.16\src\TwMgr.cpp(6233,46): warning C4302: 'type cast': truncation from 'LPSTR' to 'WORD'
+D:\OpenGL\external\AntTweakBar-1.16\src\TwMgr.cpp(6234,39): warning C4302: 'type cast': truncation from 'LPSTR' to 'WORD'
+D:\OpenGL\external\AntTweakBar-1.16\src\TwMgr.cpp(6235,40): warning C4302: 'type cast': truncation from 'LPSTR' to 'WORD'
+D:\OpenGL\external\AntTweakBar-1.16\src\TwMgr.cpp(6236,42): warning C4302: 'type cast': truncation from 'LPSTR' to 'WORD'
+D:\OpenGL\external\AntTweakBar-1.16\src\TwMgr.cpp(6237,37): warning C4302: 'type cast': truncation from 'LPSTR' to 'WORD'
+D:\OpenGL\external\AntTweakBar-1.16\src\TwMgr.cpp(6238,40): warning C4302: 'type cast': truncation from 'LPSTR' to 'WORD'
+D:\OpenGL\external\AntTweakBar-1.16\src\TwMgr.cpp(6240,43): warning C4302: 'type cast': truncation from 'LPSTR' to 'WORD'
+D:\OpenGL\external\AntTweakBar-1.16\src\TwMgr.cpp(6253,45): warning C4302: 'type cast': truncation from 'LPSTR' to 'WORD'
+D:\OpenGL\external\AntTweakBar-1.16\src\TwMgr.cpp(6259,44): warning C4302: 'type cast': truncation from 'LPSTR' to 'WORD'
+D:\OpenGL\external\AntTweakBar-1.16\src\TwMgr.cpp(6268,53): warning C4302: 'type cast': truncation from 'LPSTR' to 'WORD'

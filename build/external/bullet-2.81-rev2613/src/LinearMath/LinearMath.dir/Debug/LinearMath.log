@@ -1,0 +1,21 @@
+﻿  Building Custom Rule D:/OpenGL/external/bullet-2.81-rev2613/src/LinearMath/CMakeLists.txt
+  btAlignedAllocator.cpp
+  btConvexHull.cpp
+  btConvexHullComputer.cpp
+  btGeometryUtil.cpp
+  btPolarDecomposition.cpp
+  btQuickprof.cpp
+  btSerializer.cpp
+  btVector3.cpp
+D:\OpenGL\external\bullet-2.81-rev2613\src\LinearMath\btPolarDecomposition.cpp(63,36): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+D:\OpenGL\external\bullet-2.81-rev2613\src\LinearMath\btPolarDecomposition.cpp(63,30): warning C4244: 'initializing': conversion from 'double' to 'const btScalar', possible loss of data
+D:\OpenGL\external\bullet-2.81-rev2613\src\LinearMath\btPolarDecomposition.cpp(66,36): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+D:\OpenGL\external\bullet-2.81-rev2613\src\LinearMath\btVector3.cpp(46,50): warning C4838: conversion from 'int' to 'const unsigned char' requires a narrowing conversion
+D:\OpenGL\external\bullet-2.81-rev2613\src\LinearMath\btVector3.cpp(171,42): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+D:\OpenGL\external\bullet-2.81-rev2613\src\LinearMath\btVector3.cpp(176,14): warning C4267: '-=': conversion from 'size_t' to 'unsigned long', possible loss of data
+D:\OpenGL\external\bullet-2.81-rev2613\src\LinearMath\btVector3.cpp(419,38): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+D:\OpenGL\external\bullet-2.81-rev2613\src\LinearMath\btVector3.cpp(431,50): warning C4838: conversion from 'int' to 'const unsigned char' requires a narrowing conversion
+D:\OpenGL\external\bullet-2.81-rev2613\src\LinearMath\btVector3.cpp(556,42): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+D:\OpenGL\external\bullet-2.81-rev2613\src\LinearMath\btVector3.cpp(561,14): warning C4267: '-=': conversion from 'size_t' to 'unsigned long', possible loss of data
+D:\OpenGL\external\bullet-2.81-rev2613\src\LinearMath\btVector3.cpp(807,38): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+  LinearMath.vcxproj -> D:\OpenGL\build\external\bullet-2.81-rev2613\src\LinearMath\Debug\LinearMath.lib

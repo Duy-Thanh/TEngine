@@ -1,0 +1,24 @@
+^D:\OPENGL\BUILD\CMAKEFILES\DCD08B5D0C2989B329705BAEC3EC3EA5\DOCS.RULE
+setlocal
+cd D:\OpenGL\build\external\glfw-3.3\docs
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+C:\mingw64\bin\doxygen.exe
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\OPENGL\EXTERNAL\GLFW-3.3\DOCS\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/OpenGL -BD:/OpenGL/build --check-stamp-file D:/OpenGL/build/external/glfw-3.3/docs/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,15 @@
+### CRASH HANDLER ###
+set(CRASH_HANDLER_SOURCE
+	crash-handler/crash.c
+)
+
+set(CRASH_HANDLER_HEADERS crash-handler/crash.h)
+
+add_library( CRASH_HANDLER STATIC
+	${CRASH_HANDLER_SOURCE}
+	${CRASH_HANDLER_HEADERS}
+)
+
+target_link_libraries(CRASH_HANDLER
+	${EXTRA_LIBS}
+)

@@ -1,0 +1,14 @@
+# Target labels
+ freetype-populate
+# Source files and their labels
+D:/OpenGL/build/_deps/freetype-subbuild/CMakeFiles/freetype-populate
+D:/OpenGL/build/_deps/freetype-subbuild/CMakeFiles/freetype-populate.rule
+D:/OpenGL/build/_deps/freetype-subbuild/CMakeFiles/freetype-populate-complete.rule
+D:/OpenGL/build/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build.rule
+D:/OpenGL/build/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure.rule
+D:/OpenGL/build/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download.rule
+D:/OpenGL/build/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install.rule
+D:/OpenGL/build/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir.rule
+D:/OpenGL/build/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch.rule
+D:/OpenGL/build/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test.rule
+D:/OpenGL/build/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update.rule

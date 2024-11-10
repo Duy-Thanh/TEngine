@@ -1,0 +1,5 @@
+﻿  Building Custom Rule D:/OpenGL/CMakeLists.txt
+  Main.cpp
+D:\OpenGL\src\Main.cpp(218,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\OpenGL\src\Main.cpp(274,18): warning C4101: 'material': unreferenced local variable
+LINK : fatal error LNK1104: cannot open file 'external\assimp-3.0.1270\code\Debug\assimp.lib'

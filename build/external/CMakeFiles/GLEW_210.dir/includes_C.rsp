@@ -1,0 +1,1 @@
+-ID:/OpenGL/external/stb/include -ID:/OpenGL/external/godot/crash_handler/include -I"D:/OpenGL/external/glfw-3.3/include/GLFW" -I"D:/OpenGL/external/glew-2.1.0/include" -I"D:/OpenGL/external/AntTweakBar-1.16/include" -I"D:/OpenGL/external/assimp-3.0.1270/code/BoostWorkaround" -I"D:/OpenGL/external/bullet-2.81-rev2613/src"

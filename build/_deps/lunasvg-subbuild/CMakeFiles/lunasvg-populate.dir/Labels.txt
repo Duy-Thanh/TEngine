@@ -1,0 +1,14 @@
+# Target labels
+ lunasvg-populate
+# Source files and their labels
+D:/OpenGL/build/_deps/lunasvg-subbuild/CMakeFiles/lunasvg-populate
+D:/OpenGL/build/_deps/lunasvg-subbuild/CMakeFiles/lunasvg-populate.rule
+D:/OpenGL/build/_deps/lunasvg-subbuild/CMakeFiles/lunasvg-populate-complete.rule
+D:/OpenGL/build/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-build.rule
+D:/OpenGL/build/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-configure.rule
+D:/OpenGL/build/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-download.rule
+D:/OpenGL/build/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-install.rule
+D:/OpenGL/build/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-mkdir.rule
+D:/OpenGL/build/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-patch.rule
+D:/OpenGL/build/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-test.rule
+D:/OpenGL/build/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-update.rule

@@ -1,0 +1,5 @@
+﻿  Building Custom Rule D:/OpenGL/external/glfw-3.3/tests/CMakeLists.txt
+  monitors.c
+  getopt.c
+  glad_gl.c
+  monitors.vcxproj -> D:\OpenGL\build\external\glfw-3.3\tests\Debug\monitors.exe

@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/TEngine.dir/src/Main.cpp.obj"
+  "CMakeFiles/TEngine.dir/src/Main.cpp.obj.d"
+  "CMakeFiles/TEngine.dir/src/animation/Export.cpp.obj"
+  "CMakeFiles/TEngine.dir/src/animation/Export.cpp.obj.d"
+  "CMakeFiles/TEngine.dir/src/animation/Keyframe.cpp.obj"
+  "CMakeFiles/TEngine.dir/src/animation/Keyframe.cpp.obj.d"
+  "CMakeFiles/TEngine.dir/src/animation/Timeline.cpp.obj"
+  "CMakeFiles/TEngine.dir/src/animation/Timeline.cpp.obj.d"
+  "CMakeFiles/TEngine.dir/src/core/Application.cpp.obj"
+  "CMakeFiles/TEngine.dir/src/core/Application.cpp.obj.d"
+  "CMakeFiles/TEngine.dir/src/core/Project.cpp.obj"
+  "CMakeFiles/TEngine.dir/src/core/Project.cpp.obj.d"
+  "CMakeFiles/TEngine.dir/src/core/Window.cpp.obj"
+  "CMakeFiles/TEngine.dir/src/core/Window.cpp.obj.d"
+  "CMakeFiles/TEngine.dir/src/renderer/Material.cpp.obj"
+  "CMakeFiles/TEngine.dir/src/renderer/Material.cpp.obj.d"
+  "CMakeFiles/TEngine.dir/src/renderer/Renderer.cpp.obj"
+  "CMakeFiles/TEngine.dir/src/renderer/Renderer.cpp.obj.d"
+  "CMakeFiles/TEngine.dir/src/renderer/Shader.cpp.obj"
+  "CMakeFiles/TEngine.dir/src/renderer/Shader.cpp.obj.d"
+  "CMakeFiles/TEngine.dir/src/scene/Camera.cpp.obj"
+  "CMakeFiles/TEngine.dir/src/scene/Camera.cpp.obj.d"
+  "CMakeFiles/TEngine.dir/src/scene/Model.cpp.obj"
+  "CMakeFiles/TEngine.dir/src/scene/Model.cpp.obj.d"
+  "CMakeFiles/TEngine.dir/src/scene/Scene.cpp.obj"
+  "CMakeFiles/TEngine.dir/src/scene/Scene.cpp.obj.d"
+  "CMakeFiles/TEngine.dir/src/ui/TimelineUI.cpp.obj"
+  "CMakeFiles/TEngine.dir/src/ui/TimelineUI.cpp.obj.d"
+  "CMakeFiles/TEngine.dir/src/ui/UI.cpp.obj"
+  "CMakeFiles/TEngine.dir/src/ui/UI.cpp.obj.d"
+  "TEngine.exe"
+  "TEngine.exe.manifest"
+  "TEngine.pdb"
+  "libTEngine.dll.a"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/TEngine.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

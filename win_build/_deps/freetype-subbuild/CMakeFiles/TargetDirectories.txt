@@ -1,0 +1,3 @@
+D:/OpenGL/win_build/_deps/freetype-subbuild/CMakeFiles/freetype-populate.dir
+D:/OpenGL/win_build/_deps/freetype-subbuild/CMakeFiles/edit_cache.dir
+D:/OpenGL/win_build/_deps/freetype-subbuild/CMakeFiles/rebuild_cache.dir

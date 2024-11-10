@@ -1,0 +1,5 @@
+﻿  Building Custom Rule D:/OpenGL/external/glfw-3.3/tests/CMakeLists.txt
+  iconify.c
+  getopt.c
+  glad_gl.c
+  iconify.vcxproj -> D:\OpenGL\build\external\glfw-3.3\tests\Debug\iconify.exe
